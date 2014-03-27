@@ -9,7 +9,7 @@ March, 2013
 
 While decompiling the Ingress source code I noticed one day where the endpoint url is declared, for kicks I drop the 's' in https. With SSL disabled I am able to easily read the json responses from the server in plain text. (Using [Charles](http://www.charlesproxy.com/), if you are curious)
 
-This is the first step to me getting banned. Over the next month I reenginer how to replicate the Intel Map's requests and how to implement all features of the map in a native experience. When I started reimplementing IITC's features I found that my simple map could do much much more.
+This is the first step to me getting banned. Over the next month I reenginer how to replicate the Intel Map's requests and how to implement all features of the map in a native experience. When I started reimplementing [IITC](http://iitc.jonatkins.com/)'s features I found that my simple map could do much much more.
 
 After figuring out how to juggle both the map and clients authentication I soon figure out how to spoof, its simple enough at this point.. no real authentication on the servers that isn't easily mimiced. The next logical choice is to match the feature set of the client, which I soon do.
 
