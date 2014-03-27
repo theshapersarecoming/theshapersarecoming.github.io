@@ -15,7 +15,7 @@ After figuring out how to juggle both the map and clients authentication I soon 
 
 With all features by Niantic reprecated I evolved the project to handle automation. Auto hacking and deploying were first up, followed by XM comsumption at a large scale (Used as a weapon). With some nice polish I was able to create a L8 account from purely hacking enemy portals within three days.
 
-December, 2013
+July, 2013
 ===
 
 This project was becoming a beast, it was able to farm massive quantities of valuable gear for me to play. Effectivly augementing my main player to be able to destroy or build anything I want. I was able to see where people are currently at faster and easier than they ever could, this gave me a massive advantage.
