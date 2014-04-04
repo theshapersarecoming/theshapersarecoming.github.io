@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Story Time [Part 2]"
+categories: jekyll update
+---
+
+July, 2013
+===
+
+In the aftermath of all of my accounts being banned, I am stunned. I reach out to Niantic trying to restore my main account, after a week I am reset back to L1 and reinstated. Ignoring my other accounts I move forward trying to figure out what went wrong. After a few discussions with some colleagues we are able to find that Niantic quietly added more authentication in the latest update. Without this authentication the server didn't complain, but it flagged you for cheating.
+
+Now that I know what happened, I was able to concentrate on fixing the problem. After a week or two the authentication is replicated and my project is up and running again. Knowing that I am flagged, I start a new account a few states away and play with it for a while to test the setup. After a week, I tentatively use it with my main and quickly get back to L8 again.
+
+September, 2013
+==
+
+An [issue](https://github.com/jonatkins/ingress-intel-total-conversion/issues/518) is opened with IITC reporting that the Intel map is now obfuscating some of the request parameters. I use the Intel map to 'see' what is happening before I do actions. At this point I am barely playing, this is the breaking point for me. I stop development and move my attention to new projects.
+
+January, 2014
+==
+
+After quietly following the developmental struggles IITC faced with the obfuscation of the Intel map I decided that using that in conjunction with my application just isn't an option anymore. Being a couple months out of date, I don't want to fire up my bot in fear that I would trigger another flag and ban my main again. If I am to continue I need a new direction.
+
+After analysing how ["Broot" mod](http://ingress-apk-mod.o4kapuk.info/) was built I figured that with the subtile changes Niantic has made in the past, catching all checks for verification of the apk just isn't possible long term. I needed a way to make changed to the application, &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608; &#9608;&#9608;&#9608;. In my research I find &#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608; &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;. It looks like it could get the job done without detection long term.
