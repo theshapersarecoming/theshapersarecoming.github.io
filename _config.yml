@@ -3,4 +3,3 @@ markdown: redcarpet
 pygments: true
 permalink: :title
 safe: false
-exclude: [THEME_LICENSE]
