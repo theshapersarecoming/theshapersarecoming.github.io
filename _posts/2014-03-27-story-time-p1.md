@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story Time [Part 1]"
+title:  "Prologue [Part 1]"
 categories: jekyll update
 ---
 
@@ -24,4 +24,4 @@ New update comes out, as usual I update the version name and hash without checki
 
 Scan FAILED.
 
-// TODO Explain about what happens next
+`// TODO Explain about what happens next`

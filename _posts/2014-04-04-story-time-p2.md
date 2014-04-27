@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story Time [Part 2]"
+title:  "Prologue [Part 2]"
 categories: jekyll update
 ---
 

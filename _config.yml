@@ -1,3 +1,5 @@
-name: Scan FAILED.
+name: "Scan FAILED."
 markdown: redcarpet
 pygments: true
+permalink: :title
+exclude: [README.md, LICENSE, Makefile]
