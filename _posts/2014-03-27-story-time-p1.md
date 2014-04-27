@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prologue [Part 1]"
-alias: /jekyll/update/2014/03/27/story-time-p1.html
+redirect_from: "/jekyll/update/2014/03/27/story-time-p1.html"
 categories: jekyll update
 ---
 
