@@ -2,4 +2,5 @@ name: "Scan FAILED."
 markdown: redcarpet
 pygments: true
 permalink: :title
-safe: false
+gems:
+  - jekyll-redirect-from
