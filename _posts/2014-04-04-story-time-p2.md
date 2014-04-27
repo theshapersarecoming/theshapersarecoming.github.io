@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Prologue [Part 2]"
-categories: jekyll update
 alias: /jekyll/update/2014/04/04/story-time-p2.html
+categories: jekyll update
 ---
 
 July, 2013
