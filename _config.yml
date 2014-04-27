@@ -2,4 +2,5 @@ name: "Scan FAILED."
 markdown: redcarpet
 pygments: true
 permalink: :title
-exclude: [README.md, LICENSE, Makefile]
+safe: false
+exclude: [THEME_LICENSE]

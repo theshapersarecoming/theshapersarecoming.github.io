@@ -2,6 +2,7 @@
 layout: post
 title:  "Prologue [Part 1]"
 categories: jekyll update
+alias: /jekyll/update/2014/03/27/story-time-p1.html
 ---
 
 March, 2013
