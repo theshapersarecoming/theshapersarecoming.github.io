@@ -7,7 +7,7 @@
       "category":"{{ post.category }}",
       "url":"{{ site.url }}{{ post.url }}",
       "date":"{{ post.date }}",
-      "content":"{{ post.content }}"
+      "content":"{{ post.content | escape }}"
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
