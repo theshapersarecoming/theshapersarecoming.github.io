@@ -5,8 +5,9 @@
     {
       "title":"{{ post.title | escape }}",
       "category":"{{ post.category }}",
-      "url":"{{ post.url }}",
-      "date":"{{ post.date }}"
+      "url":"{{ site.url }}{{ post.url }}",
+      "date":"{{ post.date }}",
+      "content":"{{ post.content }}"
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
